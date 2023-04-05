@@ -1,6 +1,6 @@
 ## grpc-gateway-starter
 
-This boilerplate grpc service handles http grpc-gateway traffic on the same port.
+This boilerplate grpc service handles both grpc and http grpc-gateway traffic on the same port.
 
 ```
 $ make
